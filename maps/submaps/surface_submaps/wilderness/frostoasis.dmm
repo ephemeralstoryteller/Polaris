@@ -10,7 +10,6 @@
 "do" = (/obj/effect/decal/cleanable/dirt,/obj/item/trash/driedfish,/turf/simulated/floor/wood,/area/submap/FrostOasis)
 "dD" = (/obj/structure/loot_pile/maint/boxfort,/turf/simulated/floor/outdoors/dirt{outdoors = 0},/area/submap/FrostOasis)
 "dF" = (/obj/structure/simple_door/sifwood,/turf/simulated/floor/wood,/area/submap/FrostOasis)
-"fh" = (/mob/living/simple_mob/animal/sif/glitterfly{faction = "diyaab"},/turf/simulated/floor/outdoors/dirt,/area/template_noop)
 "fj" = (/turf/simulated/floor/outdoors/ice,/area/submap/FrostOasis)
 "fH" = (/obj/effect/decal/cleanable/dirt,/obj/structure/simple_door/sifwood,/obj/structure/barricade,/turf/simulated/floor/wood/broken,/area/submap/FrostOasis)
 "fU" = (/obj/structure/sink{pixel_y = 17},/turf/simulated/floor/wood,/area/submap/FrostOasis)
@@ -113,7 +112,6 @@
 "JY" = (/obj/structure/grille,/turf/simulated/floor/outdoors/dirt{outdoors = 0},/area/submap/FrostOasis)
 "Ka" = (/obj/structure/bed/chair/wood{dir = 4},/obj/effect/decal/cleanable/dirt,/turf/simulated/floor/wood,/area/submap/FrostOasis)
 "Kq" = (/obj/structure/flora/tree/dead,/obj/effect/landmark/snowy_turf,/turf/template_noop,/area/submap/FrostOasis)
-"KW" = (/mob/living/simple_mob/animal/sif/glitterfly{faction = "diyaab"},/turf/simulated/floor/outdoors/dirt,/area/submap/FrostOasis)
 "Lt" = (/obj/structure/flora/tree/pine,/obj/effect/landmark/snowy_turf,/turf/simulated/floor/outdoors/grass/sif,/area/submap/FrostOasis)
 "Ly" = (/obj/structure/kitchenspike,/obj/effect/decal/cleanable/blood,/turf/simulated/floor/outdoors/dirt{outdoors = 0},/area/submap/FrostOasis)
 "Ma" = (/obj/structure/flora/tree/pine,/turf/simulated/floor/outdoors/grass/sif,/area/submap/FrostOasis)
@@ -149,7 +147,7 @@
 "ZX" = (/obj/structure/table/standard,/obj/item/storage/fancy/blackcandle_box{start_anomalous = 1},/turf/simulated/floor/wood,/area/submap/FrostOasis)
 
 (1,1,1) = {"
-QnQnQnQnQnstQnQnQnNdNdNdNdQnQnQnQnNdNdQnQnQnQnQnstItfhQnQnQn
+QnQnQnQnQnstQnQnQnNdNdNdNdQnQnQnQnNdNdQnQnQnQnQnstItstQnQnQn
 QncocomhmhOXOXOXcocococococococococococoOXOXcocomhMAcoOXOXQn
 NdcocoxImhOXcocococozIzIzIzIcocococococococococoUoJYcococoQn
 QnmhxItTdDcococozIzIzIcAcAzIzIzIcocococococomhcocmXfcocoOXQn
@@ -176,7 +174,7 @@ QncococobcvJcocoYczmYczIYcbBFlYccocozIbXdohfzIcocococococoQn
 NdcocoxImwmwcokrmhtYmhtvmhmhkrmhcocozIyXZQmYzIcocococococoQn
 NdcomhxIxIcocovKOXmhZxjAmhOXEWvKcocozIAjQuZXzIcocococococoNd
 QnmhmhcmcocoOXmhZxmhOXtvOXOXOXcococozIzIzIzIzIcococogFxIwCNd
-QnOXKWcmcococoOXOXOXOXcocococococococococococococomhxItTOXQn
+QnOXmhcmcococoOXOXOXOXcocococococococococococococomhxItTOXQn
 QnOXNimhOXcococococococoOXcococoOXOXcococococococoOXmhcomhQn
 QnQnQnQnQnQnNdNdNdNdQnQnQnQnQnQnQnQnQnQnQnNdNdQnQnstNdNdQnQn
 "}
